@@ -1,0 +1,126 @@
+local kavoUi = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
+local window = kavoUi.CreateLib("Vemox Hub","BloodTheme")
+
+---Tabs
+
+local Tab1 = window:NewTab("Scripts")
+local Tab1Section = Tab1:NewSection("Main")
+local Tab2 = window:NewTab("Others")
+local Tab2Section = Tab2:NewSection("Main")
+
+---Infinite Yield [1]
+
+Tab1Section:NewButton("Infinite Yield","Infinite Yield Script",function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+end)
+
+---Ice Hub [1]
+
+Tab1Section:NewButton("Ice Hub","Ice Hub Script",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven"))()
+end)
+
+---Pendulum Hub [1]
+
+Tab1Section:NewButton("Pendulum Hub","Pendulum Hub Script",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Pendulum%20Hub%20V5.lua"))()
+end)
+
+---Backdoor.exe Hub [1]
+
+Tab1Section:NewButton("Backdoor.exe Hub","Backdoor.exe Hub Script",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/iK4oS/backdoor.exe/v8/src/main.lua"))();
+end)
+
+---Hoho Hub [1]
+
+Tab1Section:NewButton("Hoho Hub","Hoho Hub Script",function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()
+end)
+
+---Pls Donate Hub [1]
+
+Tab1Section:NewButton("Pls Donate Hub","Pls Donate Hub Script",function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/bardium/random/main/plsdonateoldtestingversion'))()
+end)
+
+---Headless FE [2]
+
+Tab2Section:NewButton("Headless FE","Headless Script",function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/l0wx1k/Fly-GUI/main/Fly'))()
+end)
+
+---FPS Boost [2]
+
+Tab2Section:NewButton("FPS Boost","Boost your FPS!",function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/l0wx1k/fps-boost/main/Fps%20booster'))()
+end)
+
+---Shiftlock Script [2]
+
+Tab2Section:NewButton("Shiftlock","Shiftlock Script",function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/l0wx1k/Shiftlock-/main/Shiftlock'))()
+end)
+local kavoUi = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
+local window = kavoUi.CreateLib("Vemox Hub","BloodTheme")
+
+---Tabs
+
+local Tab1 = window:NewTab("Scripts")
+local Tab1Section = Tab1:NewSection("Main")
+local Tab2 = window:NewTab("Others")
+local Tab2Section = Tab2:NewSection("Main")
+
+---Infinite Yield [1]
+
+Tab1Section:NewButton("Infinite Yield","Infinite Yield Script",function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+end)
+
+---Ice Hub [1]
+
+Tab1Section:NewButton("Ice Hub","Ice Hub Script",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven"))()
+end)
+
+---Pendulum Hub [1]
+
+Tab1Section:NewButton("Pendulum Hub","Pendulum Hub Script",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Pendulum%20Hub%20V5.lua"))()
+end)
+
+---Backdoor.exe Hub [1]
+
+Tab1Section:NewButton("Backdoor.exe Hub","Backdoor.exe Hub Script",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/iK4oS/backdoor.exe/v8/src/main.lua"))();
+end)
+
+---Hoho Hub [1]
+
+Tab1Section:NewButton("Hoho Hub","Hoho Hub Script",function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()
+end)
+
+---Pls Donate Hub [1]
+
+Tab1Section:NewButton("Pls Donate Hub","Pls Donate Hub Script",function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/bardium/random/main/plsdonateoldtestingversion'))()
+end)
+
+---Headless FE [2]
+
+Tab2Section:NewButton("Headless FE","Headless Script",function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/l0wx1k/Fly-GUI/main/Fly'))()
+end)
+
+---FPS Boost [2]
+
+Tab2Section:NewButton("FPS Boost","Boost your FPS!",function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/l0wx1k/fps-boost/main/Fps%20booster'))()
+end)
+
+---Shiftlock Script [2]
+
+Tab2Section:NewButton("Shiftlock","Shiftlock Script",function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/l0wx1k/Shiftlock-/main/Shiftlock'))()
+end)
