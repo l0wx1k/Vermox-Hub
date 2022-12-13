@@ -4,7 +4,8 @@ local window = kavoUi.CreateLib("Vemox Hub","BloodTheme")
 ---Tabs
 
 local Tab1 = window:NewTab("Scripts")
-local Tab1Section = Tab1:NewSection("Main")
+local Tab1Section = Tab1:NewSection("Scripts")
+local Tab1Section = Tab1:NewSection("Scripts")
 local Tab2 = window:NewTab("Others")
 local Tab2Section = Tab2:NewSection("Main")
 
